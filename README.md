@@ -44,6 +44,11 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 
 ## 🛠️ Projects
 
+[📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
+
+
+
+
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
