@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_ENB3_model_drawio.png?raw=true"alt="Pair Plot of Mother's Health and Interaction w/ Education" width="700"/>
+<img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_ENB3_model_drawio.png?raw=true"alt="Visual Depiction of Proposed CNN EfficientNet Model w/ Transfer Learning" width="700"/>
 <p><em>Figure: Pairplot showing interactions between maternal health indicators and socio-educational factors.</em></p>
 </div>
 
