@@ -27,6 +27,8 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
 [![RPy2](https://img.shields.io/badge/RPy2-1F70C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rpy2.github.io/doc/latest/html/index.html)
 [![QuantReg in R](https://img.shields.io/badge/QuantReg%20(R)-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/web/packages/quantreg/)
@@ -43,6 +45,9 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 - **Other Tools:** Git, JupyterLab, Overleaf
 
 ## 🛠️ Projects
+
+### [CNN Visual Learning](https://github.com/eltsvetk/DS6050_Project)  
+Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management. 
 
 [📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
 
