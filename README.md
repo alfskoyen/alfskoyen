@@ -6,7 +6,7 @@
 
 
 
-## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :mountain_railway: :earth_americas:   Hello, welcome. I'm Harold Alfred Haugen 
+## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :mountain_railway: :earth_americas:   &nbsp; Hello, welcome. I'm Harold Alfred Haugen 
 
 Since 2019, I’ve been bridging my extensive background in **financial services risk and audit leadership** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summer 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
 
