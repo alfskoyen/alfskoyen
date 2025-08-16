@@ -19,13 +19,16 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![RPy2](https://img.shields.io/badge/RPy2-1F70C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rpy2.github.io/doc/latest/html/index.html)
 [![QuantReg in R](https://img.shields.io/badge/QuantReg%20(R)-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/web/packages/quantreg/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
@@ -34,7 +37,9 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 - **Machine Learning & AI:** XGBoost, Random Forests, Neural Networks, SHAP  
 - **Data Science Methods:** Feature Engineering, A/B Testing, Outlier Detection, Model Explainability  
 - **Data Engineering:** Pandas, Snowflake, Spark  
-- **Visualization:** Matplotlib, Seaborn, Tableau  
+- **Visualization:** Matplotlib, Seaborn, Tableau
+
+[![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
 - **Other Tools:** Git, JupyterLab, Overleaf  
 
 <!--
