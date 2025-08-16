@@ -6,7 +6,7 @@
 
 
 
-## Hi there 👋 :milky_way:
+## Hello, welcome, I'm Harold Alfred Haugen :milky_way: :triangular_ruler: :chart_with_upwards_trend:
 
 ajfkldsajf;dsafs
 
