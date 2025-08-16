@@ -14,6 +14,15 @@ My experience spans statistical modeling from linear and non-linear techniques t
 
 This ReadMe will share my recent focus and interest on **data structurem design, feature engineering and importance analysis, outlier recognition, associational coefficient analysis, as well as predictive inference**. My recent projects have applied these methods to challenges in **visual learning** and **healthcare analytics**, 
 
+## 🛠️ Core Skills  
+- **Languages:** Python, R, SQL
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- **Machine Learning & AI:** XGBoost, Random Forests, Neural Networks, SHAP  
+- **Data Science Methods:** Feature Engineering, A/B Testing, Outlier Detection, Model Explainability  
+- **Data Engineering:** Pandas, Snowflake, Spark  
+- **Visualization:** Matplotlib, Seaborn, Tableau  
+- **Other Tools:** Git, JupyterLab, Overleaf  
+
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
