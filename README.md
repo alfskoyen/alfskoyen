@@ -25,24 +25,24 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 
 [![RPy2](https://img.shields.io/badge/RPy2-1F70C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rpy2.github.io/doc/latest/html/index.html)
 [![QuantReg in R](https://img.shields.io/badge/QuantReg%20(R)-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/web/packages/quantreg/)
-[![stats package](https://img.shields.io/badge/R%20Stats%20Package-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html)
+![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
 [![car package](https://img.shields.io/badge/R%20car%20Package-VIF%20Tools-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/package=car)
-- **Machine Learning & AI:** XGBoost, Random Forests, Neural Networks, SHAP  
-- **Data Science Methods:** Feature Engineering, A/B Testing, Outlier Detection, Model Explainability  
-- **Data Engineering:** Pandas, Snowflake, Spark  
+
+- **Data Engineering:** Pandas,
 - **Visualization:** Matplotlib, Seaborn, Tableau
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
 
-- **Other Tools:** Git, JupyterLab, Overleaf  
+- **Other Tools:** Git, JupyterLab, Overleaf
+
+## 🛠️ Projects
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
