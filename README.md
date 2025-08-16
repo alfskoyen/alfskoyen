@@ -6,9 +6,11 @@
 
 
 
-## Hello, welcome, I'm Harold Alfred Haugen :milky_way: :triangular_ruler: :chart_with_upwards_trend:
+## Hello, welcome. I'm Harold Alfred Haugen :milky_way: :triangular_ruler: :chart_with_upwards_trend:
 
-ajfkldsajf;dsafs
+A transitioned **risk management and audit leader in financial services**, now merging the technical applications of **machine learning and AI** into real-world problem solving.  
+
+Current focus areas include **data structures, feature engineering, A/B testing with linear modeling, feature importance analysis, and outlier recognition**. I apply these methods to challenges in **financial services** and **healthcare analytics**, leveraging 20+ years of experience in risk management alongside a Master’s in Data Science from UVA.  
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
