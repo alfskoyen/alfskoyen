@@ -31,7 +31,6 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 
 [![RPy2](https://img.shields.io/badge/RPy2-1F70C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rpy2.github.io/doc/latest/html/index.html)
 [![QuantReg in R](https://img.shields.io/badge/QuantReg%20(R)-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/web/packages/quantreg/)
-[![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
 [![stats package](https://img.shields.io/badge/R%20Stats%20Package-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html)
 [![car package](https://img.shields.io/badge/R%20car%20Package-VIF%20Tools-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/package=car)
 - **Machine Learning & AI:** XGBoost, Random Forests, Neural Networks, SHAP  
@@ -39,7 +38,10 @@ This ReadMe will share my recent focus and interest on **data structurem design,
 - **Data Engineering:** Pandas, Snowflake, Spark  
 - **Visualization:** Matplotlib, Seaborn, Tableau
 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
+
 - **Other Tools:** Git, JupyterLab, Overleaf  
 
 <!--
