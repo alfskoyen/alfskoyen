@@ -8,15 +8,11 @@
 
 ## Hello, welcome. :milky_way: :triangular_ruler: :chart_with_upwards_trend: I'm Harold Alfred Haugen
 
-Since 2019, I’ve been bridging my background in **financial services risk and audit leadership** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summar 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
+Since 2019, I’ve been bridging my extensive background in **financial services risk and audit leadership** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summer 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
 
-I have applied a wide range of **statistical models**, from linear and non-linear approaches to **deep learning neural networks**, as well as **Bayesian statistics** to derive posteriors across feature variables and latent features.  
+My experience spans statistical modeling from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference to derive posteriors across feature variables and latent constructs.
 
-My current interests focus on **data structures, feature engineering, A/B testing with linear modeling, feature importance analysis, and outlier recognition**. I apply these methods to challenges in **financial services** and **healthcare analytics**, leveraging 20+ years of experience in risk management alongside a strong foundation in data science and machine learning.  
-
-
-
-My ReadMe will share my recent experiences in **data structures, feature engineering, A/B testing with linear modeling, feature importance analysis, and outlier recognition**. I apply these methods to challenges in **financial services** and **healthcare analytics**, leveraging 20+ years of experience in risk management alongside a Master’s in Data Science from UVA.  
+This ReadMe will share my recent focus and interest on **data structurem design, feature engineering and importance analysis, outlier recognition, associational coefficient analysis, as well as predictive inference**. My recent projects have applied these methods to challenges in **visual learning** and **healthcare analytics**, 
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
