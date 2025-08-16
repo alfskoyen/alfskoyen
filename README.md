@@ -15,7 +15,8 @@ My experience spans statistical modeling from linear and non-linear techniques t
 This ReadMe will share my recent focus and interest on **data structurem design, feature engineering and importance analysis, outlier recognition, associational coefficient analysis, as well as predictive inference**. My recent projects have applied these methods to challenges in **visual learning** and **healthcare analytics**, 
 
 ## 🛠️ Core Skills  
-- **Languages and Packages:** 
+- **Languages and Packages:**
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
