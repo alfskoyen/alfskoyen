@@ -45,7 +45,7 @@ This ReadMe will share my recent focus and interest on **data structure design, 
 
 - **Other Tools:** Git, JupyterLab, Overleaf
 
-## 🛠️ Projects
+## Projects
 
 ### [CNN Visual Learning](https://github.com/eltsvetk/DS6050_Project)  
 Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management. 
