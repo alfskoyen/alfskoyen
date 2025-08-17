@@ -12,7 +12,7 @@ Since 2019, I’ve been bridging my extensive background in **financial services
 
 My experience spans statistical modeling from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference to derive posteriors across feature variables and latent constructs.
 
-This ReadMe will share my recent focus and interest on **data structurem design, feature engineering and importance analysis, outlier recognition, associational coefficient analysis, as well as predictive inference**. My recent projects have applied these methods to challenges in **visual learning** and **healthcare analytics**, 
+This ReadMe will share my recent focus and interest on **data structure design, feature engineering and importance analysis, outlier recognition, associational coefficient analysis, as well as predictive inference**. My recent projects have applied these methods to challenges in **visual learning** and **healthcare analytics**, 
 
 ## 🛠️ Core Skills  
 - **Languages and Packages:**
