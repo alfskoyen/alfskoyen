@@ -54,7 +54,11 @@ Landslide Detection Through Deep Learning — Applied convolutional neural netwo
 
 
 ### [AWS Distributive Inference Project](https://github.com/UVA-MLSys/DS5110_Fall_2024/tree/main/Team%201) 
-asdfdsafdsaf
+To support large-scale astronomical modeling, we built a serverless workflow using AWS SageMaker, AWS Lambda, Amazon S3, and CloudWatch to orchestrate parallel distribution and execution of tasks. Amazon S3 provided a structured data architecture to store segmented training inputs and capture outputs from distributed runs, while Step Functions and Lambda coordinated execution across many workloads. We also developed Python scripts to collect and organize CloudWatch metrics alongside JSON outputs from the parallel runs, enabling calculation of mean performance measures for review and visualization. This design allows complex astronomical computations to scale automatically while providing clear insight into execution flow, runtime performance, and cost efficiency.
+
+[📑 AWS Big Data - Parallel Inference Project (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/2024.11.24-DS5110-Team-1-Project-Presentation.pdf)
+
+
 
 
 
