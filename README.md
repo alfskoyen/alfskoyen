@@ -6,7 +6,7 @@
 
 
 
-## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :bullettrain_side: :earth_americas: &nbsp;  Hello, I'm Harold Alfred Haugen. Welcome to my Git.
+## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :bullettrain_side: :earth_americas: &nbsp;  Hello, I'm Alfred Haugen. Welcome to my Git.
 
 Since 2019, I’ve been bridging my extensive background in **financial services risk and audit leadership** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summer 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
 
@@ -51,6 +51,10 @@ This ReadMe will share my recent focus and interest on **data structure design, 
 Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management. 
 
 [📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
+
+
+### [AWS Distributive Inference Project](https://github.com/UVA-MLSys/DS5110_Fall_2024/tree/main/Team%201) 
+asdfdsafdsaf
 
 
 
