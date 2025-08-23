@@ -8,7 +8,7 @@
 
 ## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :bullettrain_side: :earth_americas: &nbsp;  Hello, I'm Alfred Haugen. Welcome to my Git.
 
-Since 2019, I’ve been bridging my extensive background in **financial services risk and audit leadership** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summer 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
+Since 2019, I’ve been bridging my extensive background in **risk and audit leadership across FSI** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summer 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
 
 My experience spans statistical modeling from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference to derive posteriors across feature variables and latent constructs.
 
@@ -59,6 +59,10 @@ To support large-scale astronomical modeling, we built a serverless workflow usi
 
 [📑 AWS Big Data - Parallel Inference Project (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/2024.11.24-DS5110-Team-1-Project-Presentation.pdf)
 
+### International Clinical Field Studies: Data Research and Regression Insights
+This report highlights my work in associational coefficient analysis across historical LMIC field studies, examining relationships between covariates and outcomes. The project involved extensive data wrangling, cleaning, and research to manage heterogeneous datasets and assess variable interconnectedness. Methods included statistical and machine learning models, multicollinearity diagnostics, and interaction effects to capture nuanced patterns. Emphasis was placed on robust regression pipelines, comparative model evaluation, and reproducible workflows to deliver meaningful clinical insights.
+
+[📑 Child Health in Bangladesh: Coefficient Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
 
 
 
