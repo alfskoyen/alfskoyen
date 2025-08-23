@@ -76,8 +76,7 @@ This project explored whether predictive inference was a valid opportunity for c
 
 [📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%Two_Final%Report_8.5.25.pdf)
 
-[:signal_strength: Presentation of asdfs](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%20Two_Final%20Presentation_8.6.25.pdf)
-
+[:signal_strength: Predicting Ventilation Duration in ICU Patients with Data-Driven Models](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%20Two_Final%20Presentation_8.6.25.pdf)
 
 
 <!--
