@@ -27,7 +27,7 @@ This ReadMe will share my recent focus and interest on **data structure design, 
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-EC6B2A?style=for-the-badge&logo=python&logoColor=white)](https://xgboost.readthedocs.io/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
-![PyStan](https://img.shields.io/badge/PyStan-Bayesian%20Modeling-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Stan](https://img.shields.io/badge/Stan-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://mc-stan.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
@@ -72,10 +72,11 @@ This report highlights my work in associational coefficient analysis across hist
 [📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
 
 ### Predictive Inference in Critical Care: Data Wrangling to Model Evaluation
-This project explored whether predictive inference was a valid opportunity for classifying ICU ventilation duration using the MIMIC-III dataset. We focused on structuring and wrangling clinical data, engineering features, and training models including logistic regression, random forest, XGBoost, and neural networks. To identify the most informative predictors, we combined multicollinearity analysis (GVIF) with feature importance methods (SHAP, regression diagnostics), supported by cross-validation across iterative models. Emphasis was placed on building reproducible pipelines that link data preparation, feature selection, and predictive modeling to generate insights for ICU decision-making and resource planning.
+This project explored whether predictive inference was a valid opportunity for classifying ICU ventilation duration using the MIMIC-III dataset. We focused on structuring and wrangling clinical data, engineering features, and training models including logistic regression, random forest, XGBoost, and neural networks. To identify the most informative predictors, we combined multicollinearity analysis (GVIF) with feature importance methods (SHAP, regression diagnostics), supported by cross-validation across iterative models. Emphasis was placed on building reproducible pipelines that link data preparation, feature selection, and predictive modeling to generate insights for ICU decision-making and resource planning. Repository private given patient data protection and research ethics compliance.
 
+[📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team Two_Final Report_8.5.25.pdf)
 
-
+[📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
