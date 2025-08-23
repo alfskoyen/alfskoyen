@@ -42,6 +42,7 @@ This ReadMe will share my recent focus and interest on **data structure design, 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
+![Yellowbrick](https://img.shields.io/badge/Yellowbrick-Visualization-yellow?style=flat-square)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 
