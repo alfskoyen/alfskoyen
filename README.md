@@ -71,7 +71,9 @@ This report highlights my work in associational coefficient analysis across hist
 
 [📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
 
-### asdfdsaf
+### Predictive Inference in Critical Care: Data Wrangling to Model Evaluation
+This project explored whether predictive inference was a valid opportunity for classifying ICU ventilation duration using the MIMIC-III dataset. We focused on structuring and wrangling clinical data, engineering features, and training models including logistic regression, random forest, XGBoost, and neural networks. To identify the most informative predictors, we combined multicollinearity analysis (GVIF) with feature importance methods (SHAP, regression diagnostics), supported by cross-validation across iterative models. Emphasis was placed on building reproducible pipelines that link data preparation, feature selection, and predictive modeling to generate insights for ICU decision-making and resource planning.
+
 
 
 
