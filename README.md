@@ -63,7 +63,7 @@ To support large-scale astronomical modeling, we built a serverless workflow usi
 This report highlights my work in associational coefficient analysis across historical lower and middle income countries (LMIC) field studies, examining relationships between covariates and outcomes. The project involved extensive data wrangling, cleaning, and research to manage heterogeneous datasets and assess variable interconnectedness. Methods included statistical and machine learning models, multicollinearity diagnostics, and interaction effects to capture nuanced patterns. Emphasis was placed on robust regression pipelines, comparative model evaluation, and reproducible workflows to deliver meaningful clinical insights. Repository private given patient data protection and research ethics compliance.
 
 <div align="left">
-<img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/laz_socio_edu_pairplot.png?raw=true"alt="Pair-Plot During Associative EDA: Child to Mother Interactions" width="500"/>
+<img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/laz_socio_edu_pairplot.png?raw=true"alt="Pair-Plot During Associative EDA: Child to Mother Interactions" width="350"/>
 <p><em>Figure: asdfdsa.</em></p>
 </div>
 
