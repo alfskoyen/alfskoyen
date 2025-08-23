@@ -78,7 +78,7 @@ This project explored whether predictive inference was a valid opportunity for c
 
 [:signal_strength: Predicting Ventilation Duration in ICU Patients with Data-Driven Models](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%20Two_Final%20Presentation_8.6.25.pdf)
 
-### Next Steps
+#### Next Steps
 Given the high-dimensional and sparse nature of our dataset, a natural next step is to explore LightGBM as an alternative modeling framework. LightGBM is well-suited for these data characteristics and offers several innovations that could provide both performance gains and computational efficiency:
 - Leaf-wise vs. Level-wise Growth
 - Gradient-based One-Side Sampling (GOSS)
