@@ -74,9 +74,11 @@ This report highlights my work in associational coefficient analysis across hist
 ### Predictive Inference in Critical Care: Data Wrangling to Model Evaluation
 This project explored whether predictive inference was a valid opportunity for classifying ICU ventilation duration using the MIMIC-III dataset. We focused on structuring and wrangling clinical data, engineering features, and training models including logistic regression, random forest, XGBoost, and neural networks. To identify the most informative predictors, we combined multicollinearity analysis (GVIF) with feature importance methods (SHAP, regression diagnostics), supported by cross-validation across iterative models. Emphasis was placed on building reproducible pipelines that link data preparation, feature selection, and predictive modeling to generate insights for ICU decision-making and resource planning. Repository private given patient data protection and research ethics compliance.
 
-[📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team Two_Final Report_8.5.25.pdf)
+[📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%Two_Final%Report_8.5.25.pdf)
 
-[:signal_strength: Presentation of ](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team Two_Final Presentation_8.6.25.pdf)
+[:signal_strength: Presentation of asdfs](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%20Two_Final%20Presentation_8.6.25.pdf)
+
+
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
