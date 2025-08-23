@@ -57,12 +57,12 @@ Landslide Detection Through Deep Learning — Applied convolutional neural netwo
 
 
 ### [Scalable Inference with AWS Step Functions and Lambda](https://github.com/UVA-MLSys/DS5110_Fall_2024/tree/main/Team%201) 
-To support large-scale astronomical modeling, we built a serverless workflow using AWS SageMaker, AWS Lambda, Amazon S3, and CloudWatch to orchestrate parallel distribution and execution of tasks. Amazon S3 provided a structured data architecture to store segmented training inputs and capture outputs from distributed runs, while Step Functions and Lambda coordinated execution across many workloads. We also developed Python scripts to collect and organize CloudWatch metrics alongside JSON outputs from the parallel runs, enabling calculation of mean performance measures for review and visualization. This design allows complex astronomical computations to scale automatically while providing clear insight into execution flow, runtime performance, and cost efficiency.
+To support large-scale astronomical modeling, we built a serverless workflow using **AWS SageMaker, AWS Lambda, Amazon S3, and CloudWatch** to orchestrate parallel distribution and execution of tasks. Amazon S3 provided a structured data architecture to store segmented training inputs and capture outputs from distributed runs, while Step Functions and Lambda coordinated execution across many workloads. We also developed Python scripts to collect and organize CloudWatch metrics alongside JSON outputs from the parallel runs, enabling calculation of mean performance measures for review and visualization. This design allows complex astronomical computations to scale automatically while providing clear insight into execution flow, runtime performance, and cost efficiency.
 
 [:signal_strength: AWS Big Data - Parallel Inference Project (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/2024.11.24-DS5110-Team-1-Project-Presentation.pdf)
 
 ### International Clinical Field Studies: Data Research and Regression Insights
-This report highlights my work in associational coefficient analysis across historical lower and middle income countries (LMIC) field studies, examining relationships between covariates and outcomes. The project involved extensive data wrangling, cleaning, and research to manage heterogeneous datasets and assess variable interconnectedness. Methods included statistical and machine learning models, multicollinearity diagnostics, and interaction effects to capture nuanced patterns. Emphasis was placed on robust regression pipelines, comparative model evaluation, and reproducible workflows to deliver meaningful clinical insights. Repository private given patient data protection and research ethics compliance.
+This report highlights my work in **associational coefficient analysis** across historical lower and middle income countries (LMIC) field studies, examining relationships between covariates and outcomes. The project involved extensive data wrangling, cleaning, and research to manage heterogeneous datasets and assess variable interconnectedness. Methods included **statistical and machine learning models, multicollinearity diagnostics**, and **interaction effects** to capture nuanced patterns. Emphasis was placed on robust regression pipelines, comparative model evaluation, and reproducible workflows to deliver meaningful clinical insights. Repository private given patient data protection and research ethics compliance.
 
 <div align="left">
 <img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/laz_socio_edu_pairplot.png?raw=true"alt="Pair-Plot During Associative EDA: Child to Mother Interactions" width="350"/>
@@ -77,6 +77,15 @@ This project explored whether predictive inference was a valid opportunity for c
 [📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%Two_Final%Report_8.5.25.pdf)
 
 [:signal_strength: Predicting Ventilation Duration in ICU Patients with Data-Driven Models](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team%20Two_Final%20Presentation_8.6.25.pdf)
+
+Next Steps
+Given the high-dimensional and sparse nature of our dataset, a natural next step is to explore LightGBM as an alternative modeling framework. LightGBM is well-suited for these data characteristics and offers several innovations that could provide both performance gains and computational efficiency:
+- Leaf-wise vs. Level-wise Growth
+- Gradient-based One-Side Sampling (GOSS)
+- Sparse Data Mastery
+- Exclusive Feature Bundling (EFB)
+
+[![LightGBM Docs](https://img.shields.io/badge/LightGBM-Docs-00A0E3?logo=lightgbm&logoColor=white&style=for-the-badge)](https://lightgbm.readthedocs.io/en/stable/)
 
 
 <!--
