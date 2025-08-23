@@ -69,11 +69,9 @@ This report highlights my work in associational coefficient analysis across hist
 <p><em>Figure:Pair-Plot During Associative EDA: Interactions between maternal health indicators and socio-educational factors.</em></p>
 </div>
 
-support/laz_socio_edu_pairplot.png
-
 [📑 Child Health in Bangladesh: Coefficient Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
 
-
+### asdfdsaf
 
 
 
