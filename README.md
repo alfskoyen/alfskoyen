@@ -76,7 +76,8 @@ This project explored whether predictive inference was a valid opportunity for c
 
 [📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/Data_Science_Healthcare_Final_Report_8.5.25.pdf)
 
-[:signal_strength: Predicting Ventilation Duration in ICU Patients with Data-Driven Models](https://github.com/alfskoyen/alfskoyen/blob/mainsupport/Data_Science_Healthcare_Final_Presentation_8.6.25.pdf)
+[:signal_strength: Predicting Ventilation Duration in ICU Patients with Data-Driven Models](https://github.com/alfskoyen/alfskoyen/blob/main/support/Data_Science_Healthcare_Final_Presentation_8.6.25.pdf)
+
 
 #### Next Steps
 Given the high-dimensional and sparse nature of our dataset, a natural next step is to explore LightGBM as an alternative modeling framework. LightGBM is well-suited for these data characteristics and offers several innovations that could provide both performance gains and computational efficiency:
