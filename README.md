@@ -76,7 +76,7 @@ This project explored whether predictive inference was a valid opportunity for c
 
 [📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team Two_Final Report_8.5.25.pdf)
 
-[📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
+[:signal_strength: Presentation of ](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS5003_Project_Team Two_Final Presentation_8.6.25.pdf)
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
