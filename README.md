@@ -12,7 +12,7 @@ Since 2019, I’ve been bridging my extensive background in **risk and audit lea
 
 My experience spans statistical modeling from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference to derive posteriors across feature variables and latent constructs.
 
-This ReadMe will share my recent focus and interest on **data structure design, feature engineering and importance analysis, outlier recognition, associational coefficient analysis, as well as predictive inference**. My recent projects have applied these methods to challenges in **visual learning** and **healthcare analytics**, 
+This ReadMe highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis, and predictive inference.** Recent projects apply these methods to visual learning and healthcare analytics, using tools like GVIF multicollinearity checks, SHAP interpretability, and cross-validation to build robust, reproducible workflows that turn complex data into practical insights.
 
 ## 🛠️ Core Skills  
 - **Languages and Packages:**
