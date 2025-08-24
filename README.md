@@ -88,7 +88,7 @@ Given the high-dimensional and sparse nature of our dataset, a natural next step
 
 [![LightGBM Docs](https://img.shields.io/badge/LightGBM-Docs-00A0E3?logo=lightgbm&logoColor=white&style=for-the-badge)](https://lightgbm.readthedocs.io/en/stable/)
 
-## Dynamic Programming
+### Dynamic Programming
 As part of the computer science curriculum, I developed an understanding of key topics such as algorithmic design, computational complexity, and dynamic programming, applying them through Python coding to build efficient and reproducible solutions.
 
 The notebook below presents my manually derived solution to the Gerrymandering problem, along with an analysis of its computational complexity.
