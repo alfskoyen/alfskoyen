@@ -12,7 +12,7 @@ Since 2019, I’ve been bridging my extensive background in **risk and audit lea
 
 My experience spans statistical modeling from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference to derive posteriors across feature variables and latent constructs.
 
-This ReadMe highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis, and predictive inference.** Recent projects apply these methods to visual learning and healthcare analytics, using tools like GVIF multicollinearity checks, SHAP interpretability, and cross-validation to build robust, reproducible workflows that turn complex data into practical insights.
+This ReadMe highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis, and predictive inference.** Recent projects apply these methods to visual learning and healthcare analytics, using tools like GVIF for multicollinearity review, SHAP interpretability, and cross-validation to build robust, reproducible workflows. 
 
 ## 🛠️ Core Skills  
 - **Languages and Packages:**
@@ -87,6 +87,11 @@ Given the high-dimensional and sparse nature of our dataset, a natural next step
 - Exclusive Feature Bundling (EFB)
 
 [![LightGBM Docs](https://img.shields.io/badge/LightGBM-Docs-00A0E3?logo=lightgbm&logoColor=white&style=for-the-badge)](https://lightgbm.readthedocs.io/en/stable/)
+
+## Dynamic Programming
+As part of the computer science curriculum, I developed an understanding of key topics such as algorithmic design, computational complexity, and dynamic programming, applying them through Python coding to build efficient and reproducible solutions.
+
+The notebook below presents my manually derived solution to the Gerrymandering problem, along with an analysis of its computational complexity.
 
 
 <!--
