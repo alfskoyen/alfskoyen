@@ -93,7 +93,7 @@ As part of the computer science curriculum, I developed an understanding of key 
 
 The notebook below presents my manually derived solution to the Gerrymandering problem, along with an analysis of its computational complexity.
 
-[::abacus::computer: Dynamic Programming & Time Complexity Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/Gerrymander_Problem_Haugen.ipynb)
+[::abacus: :computer: Dynamic Programming & Time Complexity Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/Gerrymander_Problem_Haugen.ipynb)
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
