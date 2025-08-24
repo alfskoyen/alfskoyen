@@ -66,7 +66,7 @@ This project highlights my work in **associational coefficient analysis** across
 
 <div align="left">
 <img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/laz_socio_edu_pairplot.png?raw=true"alt="Pair-Plot During Associative EDA: Child to Mother Interactions" width="350"/>
-<p><em>Figure:Pair-Plot During Associative EDA: Interactions between maternal health indicators and socio-educational factors.</em></p>
+<p><em>Figure: Pair-Plot During Associative EDA: Interactions between maternal health indicators and socio-educational factors.</em></p>
 </div>
 
 [📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
