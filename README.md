@@ -14,6 +14,8 @@ My experience spans statistical modeling from linear and non-linear techniques t
 
 This ReadMe highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis, and predictive inference.** Recent projects apply these methods to visual learning and healthcare analytics, using tools like GVIF for multicollinearity review, SHAP interpretability, and cross-validation to build robust, reproducible workflows. 
 
+This ReadMe highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis**, and **predictive inference**. Recent projects apply these methods to visual learning and healthcare analytics, using tools like **GVIF** for multicollinearity review, **SHAP** interpretability, and cross-validation to build robust, reproducible workflows. My current interests extend to time series modeling, including structuring data for frequency-domain analysis (e.g., Fourier transforms) and developing deep learning approaches such as **RNNs** and **LSTMs** for uncovering sequential and temporal patterns.
+
 ## 🛠️ Core Skills  
 - **Languages and Packages:**
 
@@ -95,6 +97,11 @@ As part of the computer science curriculum, I developed an understanding of key 
 The notebook below presents my manually derived solution to the Gerrymandering problem, along with an analysis of its computational complexity.
 
 [:abacus: :computer: Dynamic Programming & Time Complexity Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/Gerrymander_Problem_Haugen.ipynb)
+
+### Time Series Data Structuring
+
+
+
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
