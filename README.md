@@ -98,10 +98,8 @@ The notebook below presents my manually derived solution to the Gerrymandering p
 
 [:abacus: :computer: Dynamic Programming & Time Complexity Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/Gerrymander_Problem_Haugen.ipynb)
 
-### Time Series Data Structuring
-
-
-
+### Time Series Data Structuring - Short Presentation
+[:signal_strength: Options for Time Series Data Design](https://github.com/alfskoyen/alfskoyen/blob/main/support//TimeSeries_DataFeatures_Haugen_Short_Pres.pdf)
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
