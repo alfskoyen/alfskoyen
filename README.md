@@ -69,15 +69,16 @@ This project highlights my work in **associational coefficient analysis** across
 <p><em>Figure: Pair-Plot During Associative EDA: Interactions between maternal health indicators and socio-educational factors.</em></p>
 </div>
 
+[:signal_strength: Uncovering Covariate Relationships in LMIC Clinical Data for Health Insights](https://github.com/alfskoyen/alfskoyen/blob/main/support/Child Health in Bangladesh Final Presentation_Final_May_1.pdf)
+
 [📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
 
 ### Predictive Inference in Critical Care: Data Wrangling to Model Evaluation
 This project explored whether predictive inference was a valid opportunity for classifying ICU ventilation duration using the **MIMIC-III** dataset. We focused on structuring and wrangling clinical data, engineering features, and training models including logistic regression, random forest, XGBoost, and neural networks. To identify the most informative predictors, we combined multicollinearity analysis (GVIF) with feature importance methods (SHAP, regression diagnostics), supported by cross-validation across iterative models. Emphasis was placed on building reproducible pipelines that link data preparation, feature selection, and predictive modeling to generate insights for ICU decision-making and resource planning. Note - Repository private given patient data protection and research ethics compliance.
 
-[📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/Data_Science_Healthcare_Final_Report_8.5.25.pdf)
-
 [:signal_strength: Predicting Ventilation Duration in ICU Patients with Data-Driven Models](https://github.com/alfskoyen/alfskoyen/blob/main/support/Data_Science_Healthcare_Final_Presentation_8.6.25.pdf)
 
+[📑 Predictive Inference within a Clinical Setting](https://github.com/alfskoyen/alfskoyen/blob/main/support/Data_Science_Healthcare_Final_Report_8.5.25.pdf)
 
 #### Next Steps
 Given the high-dimensional and sparse nature of our dataset, a natural next step is to explore LightGBM as an alternative modeling framework. LightGBM is well-suited for these data characteristics and offers several innovations that could provide both performance gains and computational efficiency:
