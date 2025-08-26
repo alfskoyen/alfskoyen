@@ -52,7 +52,7 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 
 ## Projects
 
-### [CNN Visual Learning](https://github.com/eltsvetk/DS6050_Project)  
+### [Convolutional Neural Network (CNN) Visual Learning](https://github.com/eltsvetk/DS6050_Project)  
 Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management. 
 
 [📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
