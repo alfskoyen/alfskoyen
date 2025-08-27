@@ -103,7 +103,7 @@ A short presentation on the structure of time series data, highlighting temporal
 
 [:signal_strength: Options for Time Series Data Design](https://github.com/alfskoyen/alfskoyen/blob/main/support//TimeSeries_DataFeatures_Haugen_Short_Pres.pdf)
 
-[:movie_camera: Short Video on Time Series Data(]https://youtu.be/FViOzOOjeV0)
+[:movie_camera: Short Video on Time Series Data](https://youtu.be/FViOzOOjeV0)
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
