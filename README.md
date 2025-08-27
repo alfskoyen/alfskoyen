@@ -99,7 +99,11 @@ The notebook below presents my manually derived solution to the Gerrymandering p
 [:abacus: :computer: Dynamic Programming & Time Complexity Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/Gerrymander_Problem_Haugen.ipynb)
 
 ### Time Series Data Structuring - Short Presentation
+A short presentation on the structure of time series data, highlighting temporal dependency, order, seasonality, and frequency. I demonstrate how tools like the Fourier Transform can decompose signals to uncover cycles and hidden patterns—insights that are often overlooked by models but can greatly enhance forecasting, anomaly detection, and decision-making.
+
 [:signal_strength: Options for Time Series Data Design](https://github.com/alfskoyen/alfskoyen/blob/main/support//TimeSeries_DataFeatures_Haugen_Short_Pres.pdf)
+
+[:movie_camera: Short Video on Time Series Data(]https://youtu.be/FViOzOOjeV0)
 
 <!--
 **alfskoyen/alfskoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
