@@ -36,7 +36,6 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 [![RPy2](https://img.shields.io/badge/RPy2-1F70C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rpy2.github.io/doc/latest/html/index.html)
 [![QuantReg in R](https://img.shields.io/badge/QuantReg%20(R)-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/web/packages/quantreg/)
 [![SHAP Docs](https://img.shields.io/badge/SHAP%20Docs-FF4B4B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shap.readthedocs.io/en/latest/)
-![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
 [![car package](https://img.shields.io/badge/R%20car%20Package-VIF%20Tools-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/package=car)
 
 - **Data Engineering:** Pandas,
