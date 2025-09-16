@@ -37,7 +37,11 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 [![SHAP Docs](https://img.shields.io/badge/SHAP%20Docs-FF4B4B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shap.readthedocs.io/en/latest/)
 [![car package](https://img.shields.io/badge/R%20car%20Package-VIF%20Tools-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/package=car)
 
-- **Data Engineering:** 
+- **Data Engineering:**
+[![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)](https://docs.aws.amazon.com/s3/)
+[![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker&logoColor=white)](https://docs.aws.amazon.com/sagemaker/)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)](https://docs.aws.amazon.com/lambda/)
+
 - **Visualization:** 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
