@@ -18,7 +18,6 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 
 ## 🛠️ Core Skills  
 - **Languages and Packages:**
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -38,9 +37,8 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 [![SHAP Docs](https://img.shields.io/badge/SHAP%20Docs-FF4B4B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shap.readthedocs.io/en/latest/)
 [![car package](https://img.shields.io/badge/R%20car%20Package-VIF%20Tools-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/package=car)
 
-- **Data Engineering:** Pandas,
+- **Data Engineering:** 
 - **Visualization:** 
-
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-46a2f1?style=for-the-badge)](https://seaborn.pydata.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
