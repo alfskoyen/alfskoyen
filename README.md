@@ -29,8 +29,7 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![Stan](https://img.shields.io/badge/Stan-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://mc-stan.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/) <br>
 [![RPy2](https://img.shields.io/badge/RPy2-1F70C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rpy2.github.io/doc/latest/html/index.html)
 [![QuantReg in R](https://img.shields.io/badge/QuantReg%20(R)-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/web/packages/quantreg/)
 [![SHAP Docs](https://img.shields.io/badge/SHAP%20Docs-FF4B4B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shap.readthedocs.io/en/latest/)
