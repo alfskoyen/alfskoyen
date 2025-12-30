@@ -68,18 +68,6 @@ To support large-scale astronomical modeling, we built a serverless workflow usi
 
 [:signal_strength: Presentation: AWS Big Data - Parallel Inference Project (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/2024.11.24-DS5110-Team-1-Project-Presentation.pdf)
 
-### International Clinical Field Studies: Data Research and Regression Insights
-This project highlights my work in **associational coefficient analysis** across historical lower and middle income country (LMIC) clinical field studies, examining relationships between covariates and outcomes. The project involved extensive data wrangling, cleaning, and research to manage heterogeneous datasets and assess variable interconnectedness. Methods included **statistical and machine learning models, multicollinearity diagnostics**, and **interaction effects** to capture nuanced patterns. Emphasis was placed on robust regression pipelines, comparative model evaluation, and reproducible workflows to deliver meaningful clinical insights. Note - Repository private given patient data protection and research ethics compliance.
-
-<div align="left">
-<img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/laz_socio_edu_pairplot.png?raw=true"alt="Pair-Plot During Associative EDA: Child to Mother Interactions" width="350"/>
-<p><em>Figure: Pair-Plot During Associative EDA: Interactions between maternal health indicators and socio-educational factors.</em></p>
-</div>
-
-[:signal_strength: Presentation: Uncovering Covariate Relationships in LMIC Clinical Data for Health Insights](https://github.com/alfskoyen/alfskoyen/blob/main/support/Child_Health_in_Bangladesh_Presentation_Final_May_1.pdf)
-
-[📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
-
 ### Predictive Inference in Critical Care: Data Wrangling to Model Evaluation
 This project explored whether predictive inference was a valid opportunity for classifying ICU ventilation duration using the **MIMIC-III** dataset. We focused on structuring and wrangling clinical data, engineering features, and training models including **logistic regression**, **random forest**, **XGBoost**, and **neural networks**. To identify the most informative predictors, we combined multicollinearity analysis (**GVIF**) with feature importance methods (**SHAP**, regression diagnostics), supported by cross-validation across iterative models. Emphasis was placed on building reproducible pipelines that link data preparation, feature selection, and predictive modeling to generate insights for ICU decision-making and resource planning. Note - Repository private given patient data protection and research ethics compliance.
 
@@ -95,6 +83,20 @@ Given the high-dimensional and sparse nature of our dataset, a natural next step
 - Exclusive Feature Bundling (EFB)
 
 [![LightGBM Docs](https://img.shields.io/badge/LightGBM-Docs-00A0E3?logo=lightgbm&logoColor=white&style=for-the-badge)](https://lightgbm.readthedocs.io/en/stable/)
+
+
+### International Clinical Field Studies: Data Research and Regression Insights
+This project highlights my work in **associational coefficient analysis** across historical lower and middle income country (LMIC) clinical field studies, examining relationships between covariates and outcomes. The project involved extensive data wrangling, cleaning, and research to manage heterogeneous datasets and assess variable interconnectedness. Methods included **statistical and machine learning models, multicollinearity diagnostics**, and **interaction effects** to capture nuanced patterns. Emphasis was placed on robust regression pipelines, comparative model evaluation, and reproducible workflows to deliver meaningful clinical insights. Note - Repository private given patient data protection and research ethics compliance.
+
+<div align="left">
+<img src="https://github.com/alfskoyen/alfskoyen/blob/main/support/laz_socio_edu_pairplot.png?raw=true"alt="Pair-Plot During Associative EDA: Child to Mother Interactions" width="350"/>
+<p><em>Figure: Pair-Plot During Associative EDA: Interactions between maternal health indicators and socio-educational factors.</em></p>
+</div>
+
+[:signal_strength: Presentation: Uncovering Covariate Relationships in LMIC Clinical Data for Health Insights](https://github.com/alfskoyen/alfskoyen/blob/main/support/Child_Health_in_Bangladesh_Presentation_Final_May_1.pdf)
+
+[📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
+
 
 ### Dynamic Programming
 As part of the computer science curriculum, I developed an understanding of key topics such as algorithmic design, computational complexity, and dynamic programming, applying them through Python coding to build efficient and reproducible solutions.
