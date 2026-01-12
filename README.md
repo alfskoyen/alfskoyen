@@ -52,6 +52,7 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 
 ### [Convolutional Neural Network (CNN) Visual Learning](https://github.com/eltsvetk/DS6050_Project)  
 **Team Project:** Harold Haugen, Max Pearton, Daniel Sery, Elena Tsvetkova
+
 Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management.
 
 **My Key Notebooks:**
