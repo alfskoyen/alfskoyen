@@ -56,13 +56,13 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management.
 
 **My Key Notebooks:**
-> *The full repository contains notebooks from all team members. Highlighted below are my primary contributions:*
+> *The full repository contains notebooks across all team members. Highlighted below are my primary contributions:*
 
-- 📓 [Phase I: Model Architecture Comparison](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_Design_FirstPhase_hh.ipynb) - Baseline CNN vs. transfer learning models
-- 📓 [Phase II: Fine-Tuning on Combined Dataset](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_EFB3_hh-combdata.ipynb) - Progressive layer unfreezing (Set 4, 7,132 images)
-- 📓 [Phase II: Fine-Tuning Archive](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_EFB3_hh.ipynb) - Early experiments on Sets 1-3
+- 📓 [Phase I: Model Architecture Comparison](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_Design_FirstPhase_hh.ipynb) - Designed Baseline CNN vs. Review of EfficientNet through transfer learning
+- 📓 [Phase II: Fine-Tuning on Combined Dataset](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_EFB3_hh-combdata.ipynb) - Progressive layer unfreezing (Training Set 4, 7,132 images)
+- 📓 [Phase II: Fine-Tuning Archive](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_EFB3_hh.ipynb) - Early experiments on Training Sets 1-3
 - 📓 [Weight Transfer Experiments](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_ReconstModel_hh.ipynb) - Two-stage training approach
-- 📊 [Results Visualization](https://github.com/eltsvetk/DS6050_Project/blob/main/Landslide_Visuals.ipynb) - Consolidated performance metrics
+- 📊 [Results Visualization](https://github.com/eltsvetk/DS6050_Project/blob/main/Landslide_Visuals.ipynb) - Consolidated performance metrics and vizualizations
 
 **Documentation:**
 - [:signal_strength: Presentation: Landslide Identification](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Project_Final_Team6.pdf)
