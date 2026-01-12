@@ -6,13 +6,11 @@
 
 ## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :bullettrain_side: :earth_americas: &nbsp;  Hello, I'm Alfred Haugen. Welcome to my Git.
 
-Since 2019, I’ve been bridging my extensive background in **risk and audit leadership across FSI** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summer 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
+Since 2019, I've been bridging my extensive background in **risk and audit leadership** with machine learning and algorithmic design, applying **ML and AI** to solve complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia's School of Data Science (August 2025), building on prior machine learning studies at **Georgetown University** in 2020.
 
-My experience spans statistical modeling from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference to derive posteriors across feature variables and latent constructs.
+My technical expertise spans statistical modeling, from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference for deriving posteriors across feature variables and latent constructs. This portfolio highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis**, and **predictive inference**. 
 
-This ReadMe highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis, and predictive inference.** Recent projects apply these methods to visual learning and healthcare analytics, using tools like GVIF for multicollinearity review, SHAP interpretability, and cross-validation to build robust, reproducible workflows. 
-
-This ReadMe highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis**, and **predictive inference**. Recent projects apply these methods to visual learning and healthcare analytics, using tools like **GVIF** for multicollinearity review, **SHAP** interpretability, and cross-validation to build robust, reproducible workflows. My current interests extend to time series modeling, including structuring data for frequency-domain analysis (e.g., Fourier transforms) and developing deep learning approaches such as **RNNs** and **LSTMs** for uncovering sequential and temporal patterns.
+Recent projects apply these methods to **computer vision** (landslide detection via CNNs with transfer learning) and **healthcare analytics**, leveraging tools like **GVIF** for multicollinearity assessment, **SHAP** for model interpretability, and rigorous cross-validation for robust, reproducible workflows. My current interests extend to **time series modeling**, including frequency-domain analysis (Fourier transforms) and deep learning approaches (**RNNs, LSTMs**) for sequential and temporal pattern recognition.
 
 ## 🛠️ Core Skills  
 - **Languages and Packages:** <br>
@@ -55,7 +53,7 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 
 Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management.
 
-**My Key Notebooks:**
+**My Project Notebooks:**
 > *The full repository contains notebooks across all team members. Highlighted below are my primary contributions:*
 
 - 📓 [Phase I: Model Architecture Comparison](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_Design_FirstPhase_hh.ipynb) - Designed Baseline CNN vs. Review of EfficientNet through transfer learning
