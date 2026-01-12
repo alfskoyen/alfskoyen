@@ -4,8 +4,6 @@
 <p><em>Figure: Visual Depiction of EfficientNet CNN Model Highlighting Transfer Learning and Open Layers.</em></p>
 </div>
 
-
-
 ## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :bullettrain_side: :earth_americas: &nbsp;  Hello, I'm Alfred Haugen. Welcome to my Git.
 
 Since 2019, I’ve been bridging my extensive background in **risk and audit leadership across FSI** with coded workflows, algorithmic design, and machine learning, finding practical scenarios to apply **ML and AI** in solving complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia’s School of Data Science (Summer 2025), building on prior machine learning studies at **Georgetown University** in 2020. 
@@ -53,11 +51,22 @@ This ReadMe highlights my focus on **data structure design, feature engineering,
 ## Projects
 
 ### [Convolutional Neural Network (CNN) Visual Learning](https://github.com/eltsvetk/DS6050_Project)  
-Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management. 
+**Team Project:** Harold Haugen, Max Pearton, Daniel Sery, Elena Tsvetkova
+Landslide Detection Through Deep Learning — Applied convolutional neural networks with transfer learning and hyperparameter tuning to classify satellite imagery into landslide and non-landslide regions, supporting risk mitigation and disaster management.
 
-[:signal_strength: Presentation: Landslide Identification](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Project_Final_Team6.pdf)
+**My Key Notebooks:**
+> *The full repository contains notebooks from all team members. Highlighted below are my primary contributions:*
 
-[📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
+- 📓 [Phase I: Model Architecture Comparison](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_Design_FirstPhase_hh.ipynb) - Baseline CNN vs. transfer learning models
+- 📓 [Phase II: Fine-Tuning on Combined Dataset](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_EFB3_hh-combdata.ipynb) - Progressive layer unfreezing (Set 4, 7,132 images)
+- 📓 [Phase II: Fine-Tuning Archive](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_EFB3_hh.ipynb) - Early experiments on Sets 1-3
+- 📓 [Weight Transfer Experiments](https://github.com/eltsvetk/DS6050_Project/blob/main/Model_SecondPhase_ReconstModel_hh.ipynb) - Two-stage training approach
+- 📊 [Results Visualization](https://github.com/eltsvetk/DS6050_Project/blob/main/Landslide_Visuals.ipynb) - Consolidated performance metrics
+
+**Documentation:**
+- [:signal_strength: Presentation: Landslide Identification](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Project_Final_Team6.pdf)
+- [📑 Full Report: Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
+
 
 <!--
 [📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/raw/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
@@ -126,3 +135,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
