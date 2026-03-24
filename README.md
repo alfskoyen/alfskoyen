@@ -47,6 +47,21 @@ Recent projects apply these methods to **computer vision** (landslide detection 
 - **Other Tools:** Git, JupyterLab, Overleaf
 
 ## Projects
+### [Options Alpha Scanner — Bi-Dimensional Put-Selling Screener](https://github.com/alfskoyen/options-alpha-scanner)
+
+A quantitative options analytics engine scanning ~600 NYSE & Nasdaq symbols nightly, ranking the entire universe through a **two-dimensional Premium × Risk scoring model** to surface asymmetric put-selling opportunities. Built end-to-end — from Alpha Vantage API pipeline through feature engineering, scoring, and an interactive Plotly/Dash dashboard deployed live on Render.
+
+**Key methods:** Cross-sectional percentile scoring · IV/HV ratio analysis · Vol spike detection · Term structure regression · Delta-bucketed premium efficiency
+
+<a href="https://options-alpha-scanner.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-4dd9d9?style=for-the-badge" alt="Live Demo">
+</a>
+
+<div align="left">
+<img src="https://github.com/alfskoyen/options-alpha-scanner/blob/main/assets/opt_scan_scatter_3.13.png?raw=true" alt="Options Alpha Scanner — Premium vs Risk Quadrant Map" width="600"/>
+<p><em>Figure: Premium vs Risk scatter across ~600 symbols. Q1 (mint) — High Premium / Low Risk — is the primary target zone.</em></p>
+</div>
+
 
 ### [Convolutional Neural Network (CNN) Visual Learning](https://github.com/eltsvetk/DS6050_Project)  
 **Team Project:** Harold Haugen, Max Pearton, Daniel Sery, Elena Tsvetkova
