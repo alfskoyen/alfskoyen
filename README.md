@@ -48,8 +48,15 @@ Recent projects apply these methods to **computer vision** (landslide detection 
 
 ## Projects
 ### [Options Alpha Scanner — Bi-Dimensional Put-Selling Screener](https://github.com/alfskoyen/options-alpha-scanner)
+![Status](https://img.shields.io/badge/Status-Beta%20%7C%20Active%20Dev-orange?style=for-the-badge)
+![As Of](https://img.shields.io/badge/As%20of-March%202026-grey?style=for-the-badge)
 
-A quantitative options analytics engine scanning ~600 NYSE & Nasdaq symbols nightly, ranking the entire universe through a **two-dimensional Premium × Risk scoring model** to surface asymmetric put-selling opportunities. Built end-to-end — from Alpha Vantage API pipeline through feature engineering, scoring, and an interactive Plotly/Dash dashboard deployed live on Render.
+
+A recent passion project, development of a full end-to-end quantitative engine to scan ~600 NYSE 
+& Nasdaq symbols nightly, ranking the universe through a **two-dimensional Premium × 
+Risk scoring model** in order to surface asymmetric put-selling opportunities. The project is a full pipeline
+from the Alpha Vantage API through feature engineering, scoring, and finally an interactive Plotly/Dash dashboard 
+deployed live on Render.
 
 **Key methods:** Cross-sectional percentile scoring · IV/HV ratio analysis · Vol spike detection · Term structure regression · Delta-bucketed premium efficiency
 
