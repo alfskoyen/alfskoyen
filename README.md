@@ -42,6 +42,8 @@ Recent projects apply these methods to **computer vision** (landslide detection 
 [![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
 [![Yellowbrick](https://img.shields.io/badge/Yellowbrick-FFCB05?logo=python&logoColor=black&style=for-the-badge)](https://www.scikit-yb.org/en/latest/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
 
 
 - **Other Tools:** Git, JupyterLab, Overleaf
@@ -52,7 +54,7 @@ Recent projects apply these methods to **computer vision** (landslide detection 
 ![As Of](https://img.shields.io/badge/As%20of-March%202026-grey?style=for-the-badge)
 
 
-A recent passion project, development of a full end-to-end quantitative engine to scan ~600 NYSE 
+A current passion project of mine, the development of a full end-to-end quantitative alpha engine to scan ~600 NYSE 
 & Nasdaq symbols nightly, ranking the universe through a **two-dimensional Premium × 
 Risk scoring model** in order to surface asymmetric put-selling opportunities. The project is a full pipeline
 from the Alpha Vantage API through feature engineering, scoring, and finally an interactive Plotly/Dash dashboard 
