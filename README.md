@@ -94,7 +94,11 @@ Landslide Detection Through Deep Learning — Applied convolutional neural netwo
 [📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/raw/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
 -->
 
-### <span style="color:#8B0000;">Scalable Inference with AWS Step Functions and Lambda</span>
+
+<h3 style="color:#8B0000;">
+Scalable Inference with AWS Step Functions and Lambda
+</h3>
+
 To support large-scale astronomical modeling, we built a serverless workflow using **AWS SageMaker, AWS Lambda, Amazon S3, and CloudWatch** to orchestrate parallel distribution and execution of tasks. Amazon S3 provided a structured data architecture to store segmented training inputs and capture outputs from distributed runs, while Step Functions and Lambda coordinated execution across many workloads. We also developed Python scripts to collect and organize CloudWatch metrics alongside JSON outputs from the parallel runs, enabling calculation of mean performance measures for review and visualization. This design allows complex astronomical computations to scale automatically while providing clear insight into execution flow, runtime performance, and cost efficiency.
 
 [:signal_strength: Presentation: AWS Big Data - Parallel Inference Project (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/2024.11.24-DS5110-Team-1-Project-Presentation.pdf)
