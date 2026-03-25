@@ -94,12 +94,13 @@ Landslide Detection Through Deep Learning — Applied convolutional neural netwo
 [📑 Landslide Detection Through Deep Learning (Dec 2024)](https://github.com/alfskoyen/alfskoyen/raw/main/support/Landslide_Detection_Through_Deep_Learning_Dec_2024.pdf)
 -->
 
-### Scalable Inference with AWS Step Functions and Lambda
+### <span style="color:#8B0000;">Scalable Inference with AWS Step Functions and Lambda</span>
 To support large-scale astronomical modeling, we built a serverless workflow using **AWS SageMaker, AWS Lambda, Amazon S3, and CloudWatch** to orchestrate parallel distribution and execution of tasks. Amazon S3 provided a structured data architecture to store segmented training inputs and capture outputs from distributed runs, while Step Functions and Lambda coordinated execution across many workloads. We also developed Python scripts to collect and organize CloudWatch metrics alongside JSON outputs from the parallel runs, enabling calculation of mean performance measures for review and visualization. This design allows complex astronomical computations to scale automatically while providing clear insight into execution flow, runtime performance, and cost efficiency.
 
 [:signal_strength: Presentation: AWS Big Data - Parallel Inference Project (Dec 2024)](https://github.com/alfskoyen/alfskoyen/blob/main/support/2024.11.24-DS5110-Team-1-Project-Presentation.pdf)
 
-### Predictive Inference in Critical Care: Data Wrangling to Model Evaluation
+
+### <span style="color:#8B0000;">Predictive Inference in Critical Care: Data Wrangling to Model Evaluation</span>
 This project explored whether predictive inference was a valid opportunity for classifying ICU ventilation duration using the **MIMIC-III** dataset. We focused on structuring and wrangling clinical data, engineering features, and training models including **logistic regression**, **random forest**, **XGBoost**, and **neural networks**. To identify the most informative predictors, we combined multicollinearity analysis (**GVIF**) with feature importance methods (**SHAP**, regression diagnostics), supported by cross-validation across iterative models. Emphasis was placed on building reproducible pipelines that link data preparation, feature selection, and predictive modeling to generate insights for ICU decision-making and resource planning. Note - Repository private given patient data protection and research ethics compliance.
 
 [:signal_strength: Presentation: Predicting Ventilation Duration in ICU Patients with Data-Driven Models](https://github.com/alfskoyen/alfskoyen/blob/main/support/Data_Science_Healthcare_Final_Presentation_8.6.25.pdf)
@@ -116,7 +117,7 @@ Given the high-dimensional and sparse nature of our dataset, a natural next step
 [![LightGBM Docs](https://img.shields.io/badge/LightGBM-Docs-00A0E3?logo=lightgbm&logoColor=white&style=for-the-badge)](https://lightgbm.readthedocs.io/en/stable/)
 
 
-### International Clinical Field Studies: Data Research and Regression Insights
+### <span style="color:#8B0000;">International Clinical Field Studies: Data Research and Regression Insights</span>
 This project highlights my work in **associational coefficient analysis** across historical lower and middle income country (LMIC) clinical field studies, examining relationships between covariates and outcomes. The project involved extensive data wrangling, cleaning, and research to manage heterogeneous datasets and assess variable interconnectedness. Methods included **statistical and machine learning models, multicollinearity diagnostics**, and **interaction effects** to capture nuanced patterns. Emphasis was placed on robust regression pipelines, comparative model evaluation, and reproducible workflows to deliver meaningful clinical insights. Note - Repository private given patient data protection and research ethics compliance.
 
 <div align="left">
@@ -129,14 +130,15 @@ This project highlights my work in **associational coefficient analysis** across
 [📑 Child Health in Bangladesh: Regression and Coefficient Analysis Across Field Data](https://github.com/alfskoyen/alfskoyen/blob/main/support/DS6015_Capstone_Child_Health_in_Bangladesh_Final_May_2.pdf)
 
 
-### Dynamic Programming
+### <span style="color:#8B0000;">Dynamic Programming</span>
 As part of the computer science curriculum, I developed an understanding of key topics such as algorithmic design, computational complexity, and dynamic programming, applying them through Python coding to build efficient and reproducible solutions.
 
 The notebook below presents my manually derived solution to the Gerrymandering problem, along with an analysis of its computational complexity.
 
 [:abacus: :computer: Dynamic Programming & Time Complexity Analysis](https://github.com/alfskoyen/alfskoyen/blob/main/support/Gerrymander_Problem_Haugen.ipynb)
 
-### Time Series Data Structuring - Short Presentation
+
+### <span style="color:#8B0000;">Time Series Data Structuring - Short Presentation</span>
 A short presentation on the structure of time series data, highlighting temporal dependency, order, seasonality, and frequency. I demonstrate how tools like the Fourier Transform can decompose signals to uncover cycles and hidden patterns—insights that are often overlooked by models but can greatly enhance forecasting, anomaly detection, and decision-making.
 
 [:signal_strength: Presentation on Options for Time Series Data Design](https://github.com/alfskoyen/alfskoyen/blob/main/support//TimeSeries_DataFeatures_Haugen_Short_Pres.pdf)
