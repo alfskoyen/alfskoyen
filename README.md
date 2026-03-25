@@ -49,7 +49,7 @@ Recent projects apply these methods to **computer vision** (landslide detection 
 - **Other Tools:** Git, JupyterLab, Overleaf
 
 ## Projects
-### [Options Alpha Scanner — Bi-Dimensional Put-Selling Screener](https://github.com/alfskoyen/options-alpha-scanner)
+### [Options Alpha Scanner — Bi-Dimensional Premium vs. Volatility Engine](https://github.com/alfskoyen/options-alpha-scanner)
 ![Status](https://img.shields.io/badge/Status-Beta%20%7C%20Active%20Dev-orange?style=for-the-badge)
 ![As Of](https://img.shields.io/badge/As%20of-March%202026-grey?style=for-the-badge)
 
