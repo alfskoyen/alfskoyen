@@ -6,7 +6,7 @@
 
 ## :milky_way: :triangular_ruler: :chart_with_upwards_trend: :bullettrain_side: :earth_americas: &nbsp;  Hello, I'm Alfred Haugen. Welcome to my Git.
 
-Since 2019, I've been bridging my extensive background in **risk and audit leadership** with machine learning and algorithmic design, applying **ML and AI** to solve complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia's School of Data Science (August 2025), building on prior machine learning studies at **Georgetown University** in 2020.
+Since 2019, I've been bridging my background in **risk and audit leadership** with machine learning and algorithmic design, applying **ML and AI** to solve complex, real-world problems. I recently completed my **M.S. in Data Science** at the University of Virginia's School of Data Science (August 2025), building on prior machine learning studies at **Georgetown University** in 2020.
 
 My technical expertise spans statistical modeling, from linear and non-linear techniques to deep learning architectures, with applications of Bayesian inference for deriving posteriors across feature variables and latent constructs. This portfolio highlights my focus on **data structure design, feature engineering, importance analysis, outlier detection, associational coefficient analysis**, and **predictive inference**. 
 
